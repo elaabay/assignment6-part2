@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="products.css"?>
+<products>
+    <product>
+        <name>Vintage T-shirt</name>
+        <description>Tie-dye Grateful Dead T-shirt</description>
+        <price>$35</price>
+        <category>clothing</category>
+        <category>vintage</category>
+    </product>
+    <product>
+        <name>Bluetooth Speaker</name>
+        <description>Portable wireless speaker with deep bass</description>
+        <price>$50</price>
+        <category>electronics</category>
+    </product>
+    <product>
+        <name>Leather Wallet</name>
+        <description>Classic leather wallet with card slots</description>
+        <price>$20</price>
+        <category>accessories</category>
+        <category>vintage</category>
+    </product>
+    <product>
+        <name>Smart Watch</name>
+        <description>Fitness tracker with heart rate monitor</description>
+        <price>$150</price>
+        <category>electronics</category>
+    </product>
+    <product>
+        <name>Coffee Mug</name>
+        <description>Ceramic mug with motivational quote</description>
+        <price>$10</price>
+        <category>home goods</category>
+    </product>
+    <product>
+        <name>Noise-cancelling Headphones</name>
+        <description>Over-ear headphones with active noise cancellation</description>
+        <price>$200</price>
+        <category>electronics</category>
+    </product>
+    <product>
+        <name>Scented Candle</name>
+        <description>Lavender-scented candle for relaxation</description>
+        <price>$15</price>
+        <category>home goods</category>
+        <category>accessories</category>
+    </product>
+    <product>
+        <name>Graphic Hoodie</name>
+        <description>Cotton hoodie with cool graphic print</description>
+        <price>$45</price>
+        <category>clothing</category>
+    </product>
+</products>

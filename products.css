@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+}
+
+product {
+    display: block;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+product name {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+product description {
+    margin-top: 5px;
+}
+
+product price {
+    color: green;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+product category {
+    background-color: #e0e0e0;
+    padding: 2px 5px;
+    border-radius: 3px;
+    margin-right: 5px;
+    display: inline-block;
+}
